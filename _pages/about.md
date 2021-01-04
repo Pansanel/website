@@ -21,7 +21,7 @@ address: <a href="https://goo.gl/maps/T5mvYxs4U3VvCpDC9" class="page-description
   </div>
   <div class="clearfix">
     <p>
-      As research engineer at the <a href="http://www.iphc.cnrs.fr/" target="_blank">Hubert Curien Pluridisciplinary Institute</a>, I am leading the <a href="htts://grand-est.fr" target="_blank">SCIGNE platform</a>, a facility dedicated to large and complex scientific data management.
+      As research engineer at the <a href="http://www.iphc.cnrs.fr/" target="_blank">Hubert Curien Pluridisciplinary Institute</a>, I am leading the <a href="https://grand-est.fr" target="_blank">SCIGNE platform</a>, a facility dedicated to the management of large and complex scientific data collections.
     </p>
 
     <p>

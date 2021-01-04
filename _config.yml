@@ -12,9 +12,9 @@ footer_text: >
 url: # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 description: >
-  Academic activities of Jerome Pansanel at CNRS (Head of SCIGNE, Cloud
-  architect, bioinformatics, cheminformatics, artificial intelligence,
-  IT manager, etc).
+  Engineering and research activities of Jerome Pansanel at CNRS (
+  big data, cloud computing, bioinformatics, cheminformatics and artificial
+  intelligence).
 last_updated: 04-01-2021
 
 # -----------------------------------------------------------------------------
