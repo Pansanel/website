@@ -1,6 +1,7 @@
 RewriteEngine On
-RewriteCond %{HTTPS} off
-RewriteRule (.*) https://www.pansanel.net%{REQUEST_URI}
+RewriteCond %{HTTP_HOST} !^www.pansanel.net$ [NC]
+RewriteRule ^(.*)$ http://www.pansanel.net/$1 [L,R=301]
 
-RewriteCond %{HTTP_HOST} !^www.pansanel.net$
-RewriteRule ^(.*)$ https://www.pansanel.net/$1 [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
