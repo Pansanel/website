@@ -1,23 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.pansanel.net/</loc>
-    <lastmod>2021-01-04T08:55:30+01:00</lastmod>
+    <loc>https://www.pansanel.net/</loc>
+    <lastmod>2021-02-07T08:55:30+01:00</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.pansanel.net/projects/</loc>
+    <loc>https://www.pansanel.net/projects/</loc>
     <lastmod>2021-01-04T08:55:31+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.pansanel.net/publications/</loc>
+    <loc>https://www.pansanel.net/publications/</loc>
     <lastmod>2021-01-04T08:55:31+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.pansanel.net/teaching/</loc>
+    <loc>https://www.pansanel.net/teaching/</loc>
     <lastmod>2021-01-04T08:55:31+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.pansanel.net/twitter</loc>
+    <lastmod>2021-02-07T08:55:30+01:00</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
