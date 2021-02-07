@@ -17,7 +17,7 @@ address: <a href="https://goo.gl/maps/T5mvYxs4U3VvCpDC9" class="page-description
 
 <article>
   <div class="profile float-right">
-    <img class="img-fluid z-depth-1 rounded" src="{{ 'prof_pic.jpg' | prepend: '/assets/img/' | relative_url }} alt="A Photo that represents Jerome Pansanel" />
+    <img class="img-fluid z-depth-1 rounded" src="{{ 'prof_pic.jpg' | prepend: '/assets/img/' | relative_url }}" alt="A Photo that represents Jerome Pansanel" />
   </div>
   <div class="clearfix">
     <p>
