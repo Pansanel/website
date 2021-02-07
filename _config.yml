@@ -9,13 +9,13 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
 # last_updated: true
 
-url: # the base hostname & protocol for your site
+url: https://www.pansanel.net
 baseurl:  # the subpath of your site, e.g. /blog/
 description: >
-  Engineering and research activities of Jerome Pansanel at CNRS (
-  big data, cloud computing, bioinformatics, cheminformatics and artificial
-  intelligence).
-last_updated: 04-01-2021
+  This web page presents the engineering and research activities of Jerome
+  Pansanel. It covers several scientific fields, like  big data, cloud and grid
+  computing, bioinformatics, cheminformatics and artificial intelligence.
+last_updated: 07-02-2021
 
 # -----------------------------------------------------------------------------
 # Social Integration

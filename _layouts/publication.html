@@ -5,7 +5,7 @@
   <div class="col-sm-1 p-0 abbr">
     {% if entry.abbr %}
       {% if site.data.venues[entry.abbr] %}
-        <a class="badge font-weight-bold light-green darken-1 align-middle" style="width: 65px;" href="{{site.data.venues[entry.abbr].url}}" target="_blank">
+        <a class="badge font-weight-bold light-green darken-1 align-middle" style="width: 65px;" href="{{site.data.venues[entry.abbr].url}}">
           {{entry.abbr}}
         </a>
       {% else %}
@@ -26,7 +26,7 @@
               <nobr><em>{{author.first}} {{author.last}}</em>.</nobr>
             {% else %}
               {% if site.data.coauthors[author.last] %}
-                <nobr><a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}} {{author.last}}</a>.</nobr>
+                <nobr><a href="{{site.data.coauthors[author.last].url}}">{{author.first}} {{author.last}}</a>.</nobr>
               {% else %}
                 <nobr>{{author.first}} {{author.last}},</nobr>
               {% endif %}
@@ -37,7 +37,7 @@
                 <nobr><em>{{author.first}} {{author.last}}</em>,</nobr>
               {% else %}
                 {% if site.data.coauthors[author.last] %}
-                  <nobr><a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}} {{author.last}}</a>,</nobr>
+                  <nobr><a href="{{site.data.coauthors[author.last].url}}">{{author.first}} {{author.last}}</a>,</nobr>
                 {% else %}
                   <nobr>{{author.first}} {{author.last}},</nobr>
                 {% endif %}
@@ -48,7 +48,7 @@
                 <nobr><em>{{author.first}} {{author.last}}</em>.</nobr>
               {% else %}
                 {% if site.data.coauthors[author.last] %}
-                  <nobr><a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.first}} {{author.last}}</a>.</nobr>
+                  <nobr><a href="{{site.data.coauthors[author.last].url}}">{{author.first}} {{author.last}}</a>.</nobr>
                 {% else %}
                   <nobr>{{author.first}} {{author.last}}</nobr>
                 {% endif %}
@@ -82,34 +82,34 @@
           <a class="badge grey waves-effect font-weight-light mr-1" data-toggle="collapse" href="#{{entry_id}}-abstract" role="button" aria-expanded="false" aria-controls="{{entry_id}}-abstract">Abstract</a>
         {% endif %}
         {% if entry.html %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.html }}" target="_blank">HTML</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.html }}">HTML</a>
         {% endif %}
         {% if entry.pdf %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}">PDF</a>
         {% endif %}
         {% if entry.supplement %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.supplement | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Supplementary</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.supplement | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}">Supplementary</a>
         {% endif %}
         {% if entry.addendum %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.addendum | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Addendum</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.addendum | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}">Addendum</a>
         {% endif %}
         {% if entry.poster %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.poster | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.poster | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}">Poster</a>
         {% endif %}
         {% if entry.slides %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.slides | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Slides</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.slides | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}">Slides</a>
         {% endif %}
         {% if entry.code %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.code }}" target="_blank">Code</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.code }}">Code</a>
         {% endif %}
         {% if entry.arxiv %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="http://arxiv.org/abs/{{ entry.arxiv }}">arXiv</a>
         {% endif %}
         {% if entry.website %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.website }}" target="_blank">Website</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.website }}">Website</a>
         {% endif %}
         {% if entry.video %}
-          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.video }}" target="_blank">Video</a>
+          <a class="badge grey waves-effect font-weight-light mr-1" href="{{ entry.video }}">Video</a>
         {% endif %}
       </div>
     

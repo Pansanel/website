@@ -11,7 +11,7 @@ description: Some of the projects I am working on
   {% for project in sorted_projects %}
     <div class="project-card">
       {% if project.redirect %}
-        <a href="{{ project.redirect }}" target="_blank">
+        <a href="{{ project.redirect }}" title="Link to the project">
       {% else %}
         <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
       {% endif %}
@@ -24,7 +24,7 @@ description: Some of the projects I am working on
               {% if project.wordpress %}
                 <div class="wordpress-icon" data-toggle="tooltip" title="Blog Post">
                   <div class="icon">
-                    <a href="{{ project.wordpress }}" target="_blank"><i class="fab fa-wordpress-simple wp-icon"></i></a>
+                    <a href="{{ project.wordpress }}"><i class="fab fa-wordpress-simple wp-icon"></i></a>
                   </div>
                 </div>
               {% endif %}
@@ -32,7 +32,7 @@ description: Some of the projects I am working on
                 {% assign github_id = project.title | append: project.github | replace: '/', '-' | replace: ' ', '-' %}
                 <div class="github-icon">
                   <div class="icon" data-toggle="tooltip" title="Code Repository">
-                    <a href="https://github.com/{{ project.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+                    <a href="https://github.com/{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
                   </div>
                 </div>
               {% endif %}

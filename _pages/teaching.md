@@ -17,7 +17,7 @@ description: Training and workshops
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">January 2021</h6>
     <p>
-        This training, organized with the support of <a href="https://grand-est.fr" target="_blank">SCIGNE</a> and <a href="http://www.france-grilles.fr" target="_blank">France Grilles</a>, aims to assist the participant to develop core competencies required by the administration of an <a href="https://irods.org">iRODS</a> instance.
+        This training, organized with the support of <a href="https://grand-est.fr">SCIGNE</a> and <a href="http://www.france-grilles.fr">France Grilles</a>, aims to assist the participant to develop core competencies required by the administration of an <a href="https://irods.org">iRODS</a> instance.
     </p>
   </div>
 </div>
