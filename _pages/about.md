@@ -30,16 +30,16 @@ address: <a href="https://goo.gl/maps/T5mvYxs4U3VvCpDC9" class="page-description
 
     <ul>
       <li>
-        System administration (Grid and Cloud Computing, large storage system, ...) at SCIGNE
+        Chief technical officer at IPHC
+      </li>
+      <li>
+        Technical director at SCIGNE
       </li>
       <li>
         Coordination of the technical activities at France Grilles
       </li>
       <li>
-        Research on machine learning applied to computer system management.
-      </li>
-      <li>
-        Promote research data best usage and data science at the University of Strasbourg
+        Project officer for research data services and infrastructures at the University of Strasbourg
       </li>
       <li>
         Participation to the build of the European Open Science Cloud

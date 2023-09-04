@@ -77,6 +77,6 @@ security-related software:
 
 ## More information
 
-Visit the SCIGNE [website](https://grand-est.fr). <br />
+Visit the SCIGNE [website](https://scigne.fr). <br />
 Visit the Quattor [website](https://quattor.org). <br />
 Follow the development on [GitHub](https://github.com/Pansanel).

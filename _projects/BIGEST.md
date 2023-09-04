@@ -28,7 +28,9 @@ application is a calculator for capillary electrophoresis for Android devices.
 It aims to provide several information on the separation of compounds like the
 hydrodynamic injection, the volume of the capillary, the injection plug length
 or the quantity of injected analyte. The application works with any type of CE
-system.
+system. The description of the software has been published in a
+<a href="https://dx.doi.org/10.1002/ELPS.202100036" target="_blank">scientific article</a>.
+This software is released under the Apache 2.0 license.
 </p>
 
 <p>
@@ -52,7 +54,19 @@ analyze and convert chemical data. It is based on <a href="http://openbabel.org/
 The code is available on <a href="https://github.com/cetoolbox/cetoolbox" target="_blank">GitHub</a>.
 </p>
 
-<br />
+### Nucleos'ID
+
+<p>
+<a href="https://github.com/MSARN/NucleosID" target="_blank">Nucleos'ID</a>
+is a Python-based software to identify post-transcriptional modifications
+of RNA at the nucleoside level. The description of the software has been
+published in a <a href="https://doi.org/10.1021/acs.analchem.2c04722" target="_blank">scientific article</a>.
+This software is released under the Apache 2.0 license.
+</p>
+
+<p>
+The code is available on <a href="https://github.com/MSARN/NucleosID" target=_blank">GitHub</a>.
+</p>
 
 ## More information
 
