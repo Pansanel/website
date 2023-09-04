@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EOSC
-description: EOSC is an European Project  ....
+description: EOSC is an ambitious project that aims to develop a Web of FAIR Data and Services for science in Europe.
 img: /assets/img/eosc.png
 ---
 
@@ -9,56 +9,42 @@ img: /assets/img/eosc.png
 
 ## Overview
 
-As head of a technical and scientific platform open to at national and european level, I am regularly involved in European projects. Below are
-the last projects where I was involved with.
-
-### FAIR IMPACT (2022-2024)
-
 <p>
-</p>
-
-### FAIR EASE (2022-2024)
-
-<p>
-</p>
-
-### EGI ACE (2021-2023)
-
-<p>
-</p>
-
-### EOSC-Pillar (2019-2022)
-
-<p>
-<a href="https://www.eosc-pillar.eu/" taget="_blank">EOSC-Pillar</a> gathers
-representatives of the fast-growing national initiatives for coordinating
-data infrastructures and services in Italy, France, Germany, Austria and
-Belgium to establish an agile and efficient federation model for open
-open science services covering the full spectrum of European research
-communities.
+The ambition of the European Open Science Cloud, known as EOSC, is to
+develop a 'Web of FAIR Data and Services’ for science in Europe. EOSC
+will be a multi-disciplinary environment where researchers can publish,
+find and re-use data, tools and services, enabling them to better
+conduct their work.
 </p>
 
 <p>
-In this project, I was involved in the WP7, to provide compute and storage
-services for both thematic virtual research environment and generic
-artificial intelligence frameworks:
+EOSC builds on existing infrastructure and services supported by the
+European Commission, Member States and research communities. It brings
+these together in a federated ‘system of systems’ approach, adding value
+by aggregating content and enabling services to be used together.
+</p>
+
+<p>
+This environment will operate under well-defined conditions to ensure
+trust and safeguard the public interest. Expectations of service
+providers and users will be made explicit to ensure appropriate
+behaviour.
+</p>
+
+<p>
+EOSC is supported by the European Commission as part of the Horizon
+2020 call for projects. I take part in several of them.
 </p>
 
 <ul>
-  <li>
-    The compute service was based on Kubernetes and OpenStack. It aims at
-    providing containers and function as a services facilities for
-    articificial intelligence scientific workflows.
-  </li>
-  <li>
-    The storage service was based on the France Grilles
-    <a href="http://www.france-grilles.fr/catalogue-de-services/fg-irods/" target="_blank">FG-iRODS</a>
-    service.
-  </li>
+  <li>FAIR IMPACT (2022-2024)</li>
+  <li>FAIR EASE (2022-2024)</li>
+  <li>EGI ACE (2021-2023)</li>
+  <li>EOSC-Pillar (2019-2022)</li>
 </ul>
 
 <br />
 
 ## More information
 
-Visit the EOSC AISBL  [website](https://www.eosc-pillar.eu/). <br />
+Visit the EOSC AISBL [website](https://www.eosc.eu/). <br />

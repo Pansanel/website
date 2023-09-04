@@ -29,7 +29,6 @@ As technical director of France Grilles, I am in charge of:
     Coordinating the operations between the sites participating to the national
     infrastructure.
   </li>
-  </li>
   <li>
     Ensuring the connection, particularly in terms of operations and technology, with
     French and European partners.
@@ -37,7 +36,7 @@ As technical director of France Grilles, I am in charge of:
   <li>
     Producing technical documentation and monitor the deployment of the
     production technologies.
-  <li>
+  </li>
     Recruiting and training employees to fulfill the strategy of France Grilles.
   </li>
   <li>
